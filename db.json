@@ -1,14 +1,18 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
+    "posts": [
+        {
+            "id": 1,
+            "title": "hello"
+        }
+    ],
+    "pre": [
+        {
+            "title": "جلسه 1",
+            "link": "https://s18.picofile.com/file/8434252492/1_moghadameh.zip.html",
+            "description": "مقدمات جلسه ، آشنایی با روند کلی آموزش"
+        }
+    ],
+    "profile": {
+        "name": "typicode"
     }
-  ],
-  pre:{
-  [{title:"جلسه 1" , link:"" , description:"مقدمات جلسه ، آشنایی با روند کلی آموزش"}]
-  },
-  "profile": {
-    "name": "typicode"
-  }
 }
