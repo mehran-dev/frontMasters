@@ -5,6 +5,9 @@
       "title": "hello"
     }
   ],
+  pre:{
+  [{title:"جلسه 1" , link:"" , description:"مقدمات جلسه ، آشنایی با روند کلی آموزش"}]
+  },
   "profile": {
     "name": "typicode"
   }
