@@ -12,15 +12,34 @@
             "description": "مقدمات جلسه ، آشنایی با روند کلی آموزش"
         }
     ],
-    "html":[
+    "html": [
         {
-            "title":"جلسه 1",
-        "link":"https://s18.picofile.com/file/8434838818/html_1.zip.html",
-            "description":"مقدمات و آشنایی با تگ های ختلق"
+            "title": "جلسه 1",
+            "link": "https://s18.picofile.com/file/8434838818/html_1.zip.html",
+            "description": "مقدمات و آشنایی با تگ های مختلف"
+        },
+        {
+            "title": "جلسه 2",
+            "link": "https://s18.picofile.com/file/8434843750/html_2.zip.html",
+            "description": "آشنایی با تگ های مهم و پر کاربرد "
+        },
+        {
+            "title": "جلسه 3",
+            "link": "https://s18.picofile.com/file/8434845376/html_3.zip.html",
+            "description": "آشنایی با تگ فرم و سایر تگ های مربوط به فرم "
+        },
+        {
+            "title": "جلسه 4",
+            "link": "https://s19.picofile.com/file/8434846726/html_4.zip.html",
+            "description": "آشنایی با اتریبیوت های گلوبال و تگ تیبل"
+        },
+        {
+            "title": "جلسه 5",
+            "link": "https://s19.picofile.com/file/8434848668/html_5.zip.html",
+            "description": "آشنایی با تگ های مربوط به تایپوگرافی و تگ های خاص قدیمی و کار با تگ ویدیو و آودئو"
         }
     ],
     "profile": {
         "name": "mehran-saghebi-fard",
-
     }
 }
